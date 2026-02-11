@@ -1,0 +1,17 @@
+{
+  "permissions": [
+    {
+      "id": "ef97",
+      "code": "PERM_VIEW_USERS",
+      "name": "VER_USUARIOS",
+      "description": "ver usuarios en plataforma"
+    },
+    {
+      "id": "54b0",
+      "code": "PERM_CREATE_ROLE",
+      "name": "CREAR_ROL",
+      "description": ""
+    }
+  ],
+  "roles": []
+}
